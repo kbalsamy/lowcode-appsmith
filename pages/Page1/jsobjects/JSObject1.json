@@ -1,0 +1,16 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tbook:()=>{\n\t\treturn JSON.stringify({\n\t\t\tbook:\"name\",\n\t\t\tauthor:\"name\"\n\t\t})\n\t}\n}",
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject1",
+  "deleted": false,
+  "gitSyncId": "63b5b865f276cd0745e97baf_63b5bef40bc0a80b3001b30f"
+}
